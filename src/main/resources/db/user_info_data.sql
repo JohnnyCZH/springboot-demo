@@ -1,0 +1,10 @@
+INSERT INTO `tb_user_info` (id,staff_id,user_name,age,email_address,team) VALUES ('1','1243','johnny1',16,'johnny1@hsbc.com.cn','A'),
+('2','1123','johnny2',21,'johnny2@hsbc.com.cn','A'),
+('3','4321','johnny3',16,'johnny3@hsbc.com.cn','B'),
+('4','7898','johnny4',19,'johnny4@hsbc.com.cn','C'),
+('5','3430','johnny5',20,'johnny5@hsbc.com.cn','A'),
+('6','9128','johnny6',18,'johnny6@hsbc.com.cn','B'),
+('7','4532','johnny7',23,'johnny7@hsbc.com.cn','B'),
+('8','9241','johnny8',19,'johnny8@hsbc.com.cn','C'),
+('9','8521','johnny9',20,'johnny9@hsbc.com.cn','B'),
+('10','0921','johnny10',24,'johnny10@hsbc.com.cn','A');
